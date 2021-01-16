@@ -50,3 +50,4 @@ validators
 youtube_dl
 ffmpeg
 youtube-search-python
+jikanpy
